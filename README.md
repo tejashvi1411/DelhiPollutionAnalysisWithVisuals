@@ -1,4 +1,4 @@
-#PollutionInDelhi
+#PollutionInDelhi     
 Took Official City Based Pollution Data provided by Central Pollution Control Board(CPCB) Through Kaggle   
 The dataset provided me with various pollutants that contribute to air pollution, these were in the form of columns.       
 I removed those columns(indicators) that supposedly contribute less to overall Air Quality and kept the ones that are majorly responsibe for Air Pollution, i.e. PM 2.5, PM 10, etc.         
